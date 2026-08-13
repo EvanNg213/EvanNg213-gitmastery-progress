@@ -16,5 +16,14 @@
       "The init operation is not undone."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "under-control",
+    "started_at": 1786611245.889858,
+    "completed_at": 1786611247.367336,
+    "comments": [
+      "You successfully used git init to initialize this folder as a Git repository!"
+    ],
+    "status": "Completed"
   }
 ]
