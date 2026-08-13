@@ -7,5 +7,14 @@
       "Exercise is not a Git repository"
     ],
     "status": "Error"
+  },
+  {
+    "exercise_name": "undo-init",
+    "started_at": 1786611122.256182,
+    "completed_at": 1786611125.91205,
+    "comments": [
+      "The init operation is not undone."
+    ],
+    "status": "Incomplete"
   }
 ]
